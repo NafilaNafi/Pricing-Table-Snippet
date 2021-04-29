@@ -45,7 +45,7 @@ class Home extends React.Component {
                     <li class="mb-3 text-muted">
                       <i class="fa fa-times mr-2"></i> Monthly Status Reports</li>
                   </ul>
-                  <a href="#" class="btn btn-primary btn-block p-2 shadow rounded-pill">BUTTON</a>
+                  <a class="btn btn-primary btn-block p-2 shadow rounded-pill">BUTTON</a>
                 </div>
               </div>
              
@@ -74,7 +74,7 @@ class Home extends React.Component {
                       <del>Monthly Status Reports</del>
                     </li>
                   </ul>
-                  <a href="#" class="btn btn-primary btn-block p-2 shadow rounded-pill">BUTTON</a>
+                  <a class="btn btn-primary btn-block p-2 shadow rounded-pill">BUTTON</a>
                 </div>
               </div>
              
@@ -101,7 +101,7 @@ class Home extends React.Component {
                     <li class="mb-3">
                       <i class="fa fa-check mr-2 text-primary"></i> Monthly Status Reports</li>
                   </ul>
-                  <a href="#" class="btn btn-primary btn-block p-2 shadow rounded-pill">BUTTON</a>
+                  <a class="btn btn-primary btn-block p-2 shadow rounded-pill">BUTTON</a>
                 </div>
               </div>
              
