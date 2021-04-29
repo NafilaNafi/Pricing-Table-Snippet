@@ -45,6 +45,7 @@ class Home extends React.Component {
                     <li class="mb-3 text-muted">
                       <i class="fa fa-times mr-2"></i> Monthly Status Reports</li>
                   </ul>
+                  
                   <button class="btn btn-primary btn-block p-2 shadow rounded-pill">BUTTON</button>
                 </div>
               </div>
